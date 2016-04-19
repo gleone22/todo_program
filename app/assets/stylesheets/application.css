@@ -12,4 +12,18 @@
  *
  *= require_tree .
  *= require_self
+
  */
+
+h1 {
+color: green;
+}
+
+
+body {
+  font-family: courier
+}
+
+thead {
+color: green;
+}
